@@ -63,13 +63,6 @@ backend:
 - Database (`postgresql` and `reddis`)
 - ORM(`prisma`)
 
-### Contributors
-
-- [Contributor 5](https://github.com/priyam1706)
-- [Contributor 1](https://github.com/jaiyankargupta)
-- [Contributor 2](https://github.com/Himasnhu-AT)
-- [Contributor 3](https://github.com/Saishivabhargav)
-- [Contributor 4](https://github.com/Ridhi0812)
 
 
 
